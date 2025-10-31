@@ -22,11 +22,11 @@ This project uses advanced speech synthesis models to convert written content in
 ---
 
 ## 📂 Project Structure
-/ai-text-to-speech-converter/
-│── app.py              # Flask backend
-│── static/             # Frontend assets
-│── templates/          # HTML UI
-│── requirements.txt    # Dependencies
+ai-text-to-speech-converter/
+│── app.py # Flask backend
+│── templates/ # HTML UI
+│── static/ # Frontend assets (CSS/JS)
+│── requirements.txt # Dependencies
 └── README.md
 
 ---
